@@ -1,3 +1,7 @@
+// Copyright 2016 Martin Angers. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
 // Package httpcmw supports creating middleware chains for
 // HTTP clients. It abstracts the *http.Client into a Doer
 // interface and wraps middleware around the Do call.
