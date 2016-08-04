@@ -10,12 +10,6 @@ $ go get github.com/PuerkitoBio/httpcmw/...
 
 Use `-u` to update, `-t` to install test dependencies.
 
-## Example
-
-```
-// TODO
-```
-
 ## License
 
 The [BSD 3-clause][bsd] license, see LICENSE file.
